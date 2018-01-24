@@ -4,7 +4,7 @@ face recognition app using opencv(opencv4nodejs), nodejs
 ## To-do
 - [x] install opencv4nodejs
 - [ ] take photo using [webrtc](https://webrtc.org/start/)
-- [ ]face detection
+- [ ] face detection
   + request photos and return detected faces in response
 - [ ] save photo with name(label)
 - [ ] training saved photos with label index
