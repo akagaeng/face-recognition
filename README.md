@@ -12,24 +12,22 @@ face recognition app using opencv(opencv4nodejs), nodejs
 
 ## Install opencv4nodejs on Mac OS
 
-### install Command Line Tools
+### install Command Line Tools (CLT) for Xcode
 ```bash
 $ xcode-select --install
 ```
 
-### install opencv
-
-1. install cmake
+### install [Homebrew](https://brew.sh/)
 ```bash
-$ brew install cmake
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-2. install opencv
+### install opencv
 ```bash
 $ brew install opencv
 ```
 
-3. install opencv4nodejs
+### install opencv4nodejs
 ```bash
-$ npm install
+$ npm install opencv4nodejs --save
 ```
