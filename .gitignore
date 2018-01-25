@@ -60,3 +60,5 @@ typings/
 # backup file
 backup
 
+# ignore .gitignore
+.gitignore
